@@ -1,0 +1,19 @@
+### Enviando peticion GET de prueba
+GET http://localhost:3000/
+
+### Peticion GET con datos
+GET http://localhost:3000/pepito_perez
+
+### Enviando peticion POST de prueba
+POST http://localhost:3000/
+Content-Type: application/json
+
+{
+    "name": "pepito perez"
+}
+
+### Enviando peticion DELETE de prueba
+DELETE http://localhost:3000/pepito_perez
+
+### Enviando peticion PUT de prueba
+PUT http://localhost:3000/pepito_perez
