@@ -17,3 +17,6 @@ DELETE http://localhost:3000/pepito_perez
 
 ### Enviando peticion PUT de prueba
 PUT http://localhost:3000/pepito_perez
+
+### prueba
+DELETE http://localhost:3000/pepito_perez
