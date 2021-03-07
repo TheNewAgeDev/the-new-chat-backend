@@ -10,6 +10,9 @@ Descargar Dependencias
 ```
 pipenv install
 ```
+```
+pipenv install --dev
+```
 
 Correr el programa
 ```
